@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+}
+
+html{
+    padding: 20px;
+}
+
+.container {
+    width: 70%;
+    margin: 30px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;   
+}
+
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: #17365d;
+}
+
+h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+    color: #17365d;
+}
+
+hr{
+    color: #17365d;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.job {
+    margin-bottom: 15px;
+}
+
+.cargo {
+    font-weight: bold;
+}
+
+.data {
+    color: gray;
+    font-size: 14px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
